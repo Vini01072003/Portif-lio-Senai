@@ -1,0 +1,7 @@
+.sobre-mim{
+    display: grid;
+    grid-template-areas: "title title"
+    "description-skils";
+    grid-template-rows: auto 1fr;
+    grid-template-rows: 1fr 1fr;
+}
